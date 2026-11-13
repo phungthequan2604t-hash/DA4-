@@ -1,0 +1,12 @@
+node_modules/
+client/node_modules/
+.env
+.env.*
+!.env.example
+!.env-sample
+client/.env
+client/.env.*
+build/
+client/build/
+coverage/
+*.log
